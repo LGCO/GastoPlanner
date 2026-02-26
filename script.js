@@ -42,8 +42,8 @@ function actualizarTituloAnio() {
 function inicializarSelectorAnio() {
     const selectorAnio = document.getElementById('selectorAnio');
     selectorAnio.innerHTML = '';
-    // Rango de años: desde 2020 hasta 2030 (puedes ajustar)
-    for (let y = 2020; y <= 2030; y++) {
+    // Rango de años: desde 2000 hasta 2090
+    for (let y = 2000; y <= 2090; y++) {
         const opt = document.createElement('option');
         opt.value = y;
         opt.textContent = y;
