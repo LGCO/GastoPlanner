@@ -1,6 +1,6 @@
 # 📅 Calendario Financiero
 
-¡Bienvenido a Calendario Financiero! Esta aplicación web te permite gestionar tus ingresos, gastos y movimientos fijos de manera visual y sencilla, usando un calendario interactivo.
+¡Bienvenido a GastoPlanner! Esta aplicación web te permite gestionar tus ingresos, gastos y movimientos fijos de manera visual y sencilla, usando un calendario interactivo.
 
 ## Características principales
 
